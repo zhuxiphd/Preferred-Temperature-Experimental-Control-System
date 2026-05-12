@@ -1,6 +1,6 @@
 # Preferred Temperature Experimental Control System
 
-一个用于**偏好温度 / 温度暴露实验流程控制**的桌面计时与提醒程序。程序基于 Python 标准库 `tkinter` 构建图形界面，用于在实验过程中显示当前时间、按预设流程推进实验时间轴，并在关键节点播放提示音和中文语音提醒，帮助实验人员按固定流程完成耳温、体重、红外摄像机、走步机、K5、面罩和绑带等准备与测量操作。
+一个用于**偏好温度实验流程控制**的桌面计时与提醒程序。程序基于 Python 标准库 `tkinter` 构建图形界面，用于在实验过程中显示当前时间、按预设流程推进实验时间轴，并在关键节点播放提示音和中文语音提醒，帮助实验人员按固定流程完成耳温、体重、红外摄像机、走步机、K5、面罩和绑带等准备与测量操作。
 
 ![Uploading image.png…](https://github.com/zhuxiphd/Preferred-Temperature-Experimental-Control-System/blob/main/image.png)
 
